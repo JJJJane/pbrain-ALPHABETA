@@ -1,0 +1,6 @@
+﻿  search.cpp
+e:\pbrain-negamax\search.cpp(152): warning C4018: “>”: 有符号/无符号不匹配
+e:\pbrain-negamax\search.cpp(132): warning C4101: “resultMov”: 未引用的局部变量
+e:\pbrain-negamax\search.cpp(247): warning C4101: “resultMov”: 未引用的局部变量
+  pbrain-negamax.vcxproj -> E:\pbrain-negamax\Debug\pbrain-negamax.exe
+  pbrain-negamax.vcxproj -> E:\pbrain-negamax\Debug\pbrain-negamax.pdb (Full PDB)
